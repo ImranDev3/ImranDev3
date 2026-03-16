@@ -68,10 +68,21 @@ const Imran = {
 
 ```
 📈 Markets I Follow   : Crypto | Forex | Stock Market
-🕯️ Analysis Style     : Technical Analysis (TA) + Price Action
-🧩 Key Concepts       : Support/Resistance | RSI | MACD | EMA/SMA
-📐 Trading Strategy   : Swing Trading | Trend Following
+🕯️ Analysis Style     : Technical Analysis (TA) + Smart Money Concepts (SMC)
+```
+
+### 🔰 Trading Strategies I Use
+
+| Strategy | Full Name | Focus |
+|----------|-----------|-------|
+| 🔵 **MSNR** | Market Structure & Narrative Reversal | Market structure break, BOS/CHoCH, trend reversal zones |
+| ⚗️ **Alchemist** | Alchemist Trading Method | Liquidity grabs, inducement, premium & discount zones |
+| 🎯 **CRT** | Candle Range Theory | Candle manipulation — open, high, low, close analysis |
+
+```
+📐 Core Concepts      : Liquidity | Order Blocks | FVG | BOS | CHoCH
 🎯 Risk Management    : R:R Ratio | Position Sizing | Stop-Loss
+⏰ Timeframes         : HTF Bias (D1/H4) → LTF Entry (M15/M5)
 ```
 
 ---
