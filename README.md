@@ -1,13 +1,13 @@
 # <p align="center">🔮 IMRAN DEV | QUANTITATIVE SYSTEMS ARCHITECT 🚀</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00FF00,100:2962FF&height=280&section=header&text=ALGO%20ENGINEERING%20v1.0&fontSize=50&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00FF00,100:2962FF&height=280&section=header&text=INSTITUTIONAL%20LOGIC%20v1.0&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </p>
 
 ---
 
 ### 🧬 Professional Ecosystem (Institutional Architecture)
-I architect high-performance algorithmic systems. My focus is deconstructing **Smart Money Concepts (SMC)** into executable **Python** logic, bridging the gap between MetaTrader 5 and global liquidity pools.
+I architect high-performance algorithmic systems. My focus is deconstructing **Smart Money Concepts (SMC)** into executable logic, bridging the gap between MetaTrader 5, TradingView, and global liquidity pools.
 
 ---
 
@@ -17,10 +17,9 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MQL5-004482?style=for-the-badge&logo=metatrader&logoColor=white" />
+  <img src="https://img.shields.io/badge/PineScript-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQL5/4-004482?style=for-the-badge&logo=metatrader&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 #### 📊 Quantitative Trading & Analysis
@@ -31,12 +30,12 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
   <img src="https://img.shields.io/badge/Risk-ATR_Dynamic-red?style=for-the-badge" />
 </p>
 
-#### 🛰️ Infrastructure & Deployment
+#### 🛰️ Platforms & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/MetaTrader_5-E95420?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaTrader_5-E95420?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaEditor-Algo-004482?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
 </p>
 
@@ -50,8 +49,8 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 
 ---
 
-### 🚀 Key Project: GILD-AI Terminal
-> Enterprise-grade Gold (XAUUSD) automated engine using SMC & Institutional logic.
+### 🚀 Flagship Project: GILD-AI Terminal
+> Enterprise-grade Gold (XAUUSD) automated engine with real-time institutional logic.
 
 <p align="center">
   <a href="https://github.com/ImranDev3/Gild-AI-Terminal">
