@@ -1,23 +1,50 @@
-# <p align="center">🚀 IMRAN DEV | QUANTITATIVE ENGINEER & FINANCIAL ANALYST 🏛️</p>
+# <p align="center">💎 IMRAN DEV | QUANTITATIVE SYSTEMS ARCHITECT 🚀</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:2d3436,100:00FF00&height=280&section=header&text=ALGORITHMIC%20SYSTEMS%20v1.0&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00b894,100:00cec9&height=280&section=header&text=INSTITUTIONAL%20LOGIC%20v1.0&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Strategy-SMC%20%7C%20ICT%20%7C%20CRT-FFD700?style=for-the-badge&logo=target&logoColor=black" />
-  <img src="https://img.shields.io/badge/Core-PYTHON%20QUANT-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-HUNTING%20LIQUIDITY-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-HUNTING_LIQUIDITY-00FF00?style=for-the-badge" />
 </p>
 
 ---
 
-### 🏮 Institutional Insights & Engineering
-I bridge the gap between **Institutional Order Flow** and **High-Frequency Execution**. My systems are engineered to detect **Liquidity Sweeps (BSL/SSL)**, **Market Structure Shifts (MSS)**, and **Fair Value Gaps (FVG)** using a professional-grade Python backend and a real-time JavaScript monitoring interface.
+### 🛡️ Professional Summary
+I am a **Financial Engineer** and **Full-Stack Developer** specialized in translating complex market theories (**SMC/ICT**) into automated execution protocols. I build low-latency infrastructure that synchronizes institutional price action with high-frequency trading engines.
 
 ---
 
-### 📊 System Performance & Coding Velocity
+### 🛠️ Technical Core (Languages & Tools)
+This stack represents my ability to engineer trading systems from analysis to execution.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PineScript-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQL5/4-004482?style=for-the-badge&logo=metatrader&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MetaTrader_5-E95420?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=MetaMask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+---
+
+### 🛰️ Quant Infrastructure Layer
+| Technology Stack | Purpose & Integration |
+| :--- | :--- |
+| **Python** | Core engine for Tick-Data processing and REST API routing. |
+| **MQL5 / MetaEditor** | Direct execution bridge for Broker connectivity & Trade management. |
+| **PineScript** | Custom indicator development and backtesting on TradingView. |
+| **JavaScript / HTML** | Live PnL monitoring and real-time signal visualization dashboards. |
+
+---
+
+### 📉 Institutional Performance Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&langs_count=8" />
@@ -25,37 +52,30 @@ I bridge the gap between **Institutional Order Flow** and **High-Frequency Execu
 
 ---
 
-### 🛠 The "Full-Stack Quant" Arsenal
-| Domain | Professional Stack |
-| :--- | :--- |
-| **Backend / Quant** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MetaTrader 5](https://img.shields.io/badge/MT5-Algo-2D3436?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Analysis Model** | `Smart Money Concepts` `Institutional Order Flow` `CRT Price Action` |
-| **Frontend UI** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **DevOps** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-5E5E5E?style=flat-square&logo=json&logoColor=white) |
+### 🚀 Key Project: GILD-AI Terminal (v1.0 Stable)
+> Enterprise-grade XAUUSD trading terminal using SMC & Liquidity logic.
 
----
-
-### 🛰 Current Operational Terminal (GILD-AI)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/ImranDev3/Gild-AI-Terminal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=tokyonight&show_owner=true" />
+  </a>
 </p>
 
 ---
 
-### ⚡ Algorithmic Logic Protocol
-> **"In a world of noise, we build the signal. In a world of chaos, we write the logic."**
+### ⚡ Operational Protocol
+> **"In trading, the code is the only edge. In coding, the logic is the only law."**
 
-* **Primary Focus:** Automating XAUUSD (Gold) Liquidity Sweeps with Institutional precision.
-* **Risk Engine:** Dynamic Position Sizing & ATR-based volatility filters.
-* **Terminal Build:** GILD-AI Stable v1.0.0.
-* **Network Status:** `Market Connected` 🟢
+* **Primary Logic:** Liquidity Sweeps, Order Block Mitigations & Market Structure Shifts.
+* **Risk Engine:** Real-time ATR-based exposure management.
+* **Network Node:** `Active & Monitoring Market` 🟢
 
 ---
 
-### 📫 Secure Node Connection
+### 📫 Connect with the Architect
 <p align="left">
-  <a href="https://t.me/wmsenginebot" target="blank"><img src="https://img.shields.io/badge/SMC_Terminal-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:contact@imrandev.pro" target="blank"><img src="https://img.shields.io/badge/Enterprise_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/wmsenginebot" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:contact@imrandev.pro" target="blank"><img src="https://img.shields.io/badge/Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -64,5 +84,5 @@ I bridge the gap between **Institutional Order Flow** and **High-Frequency Execu
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImranDev3&color=00FF00&style=plastic&label=TERMINAL+VISITORS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ImranDev3&color=00cec9&style=plastic&label=TERMINAL+VISITORS" alt="Profile Views" />
 </p>
