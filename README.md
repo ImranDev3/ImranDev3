@@ -44,8 +44,8 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 
 ### 📉 Institutional Performance Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 ### 🚀 Flagship Project: GILD-AI Terminal
 <p align="center">
   <a href="https://github.com/ImranDev3/Gild-AI-Terminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=vision-friendly-dark" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
 ---
