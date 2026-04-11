@@ -1,145 +1,70 @@
-<div align="center">
+# <p align="center">📈 IMRAN DEV | QUANTITATIVE ARCHITECT 🚀</p>
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Imran%20Hossain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Trader%20%7C%20Financial%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2d3436&height=220&section=header&text=ALGO%20TRADER%20v1&fontSize=60&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👨‍💻+Frontend+Developer;📈+Crypto+%26+Stock+Trader;📊+Financial+Analyst;🚀+Self-Learner+%7C+Problem+Solver" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ImranDev3&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/ImranDev3?label=Followers&style=for-the-badge&color=302b63&logo=github" />
-
-</div>
+## 🧑‍💻 Engineering Bio
+Professional **Full-Stack Developer** and **Algorithmic Strategist**. Specialized in building low-latency trading infrastructure, automated risk management systems, and real-time market data visualizers. Currently optimizing execution logic for **Gold (XAUUSD)** via GILD-AI Terminal.
 
 ---
 
-## 🧠 About Me
-
-```javascript
-const Imran = {
-  name       : "Imran Hossain",
-  location   : "📍 Dhaka, Bangladesh",
-  roles      : ["Frontend Developer", "Trader", "Financial Analyst"],
-  learning   : ["React.js", "JavaScript ES6+", "Technical Analysis"],
-  passion    : "Building clean UIs & Reading the market 📉📈",
-  funFact    : "I debug code AND chart setups — both need patience 😄",
-  available  : true   // Open to work & collaborations!
-};
-```
+### 🚀 GILD-AI Terminal Intelligence
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=radical&show_owner=true" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+### 🛠 Technology Composition (Trading Stack)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaTrader5-Algo-2D3436?style=for-the-badge" />
+</p>
 
 ---
 
-## 📊 Trading & Financial Analysis
+### 📊 Performance & Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=radical&hide=html,css" />
+</p>
 
-<div align="center">
-
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=black)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-
-</div>
-
-```
-📈 Markets I Follow   : Crypto | Forex | Stock Market
-🕯️ Analysis Style     : Technical Analysis (TA) + Smart Money Concepts (SMC)
-```
-
-### 🔰 Trading Strategies I Use
-
-| Strategy | Full Name | Focus |
-|----------|-----------|-------|
-| 🔵 **MSNR** | Market Structure & Narrative Reversal | Market structure break, BOS/CHoCH, trend reversal zones |
-| ⚗️ **Alchemist** | Alchemist Trading Method | Liquidity grabs, inducement, premium & discount zones |
-| 🎯 **CRT** | Candle Range Theory | Candle manipulation — open, high, low, close analysis |
-
-```
-📐 Core Concepts      : Liquidity | Order Blocks | FVG | BOS | CHoCH
-🎯 Risk Management    : R:R Ratio | Position Sizing | Stop-Loss
-⏰ Timeframes         : HTF Bias (D1/H4) → LTF Entry (M15/M5)
-```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
-
-</div>
+### ⚡ Operational Core
+| Infrastructure | Capability |
+| :--- | :--- |
+| **Market Access** | High-speed MetaTrader 5 API Bridge |
+| **Data Engine** | Real-time Tick Analysis & JSON Streaming |
+| **Automation** | Multi-threaded Signal Execution |
+| **Security** | Encrypted Ubuntu Server Deployment |
 
 ---
 
-## 🏆 GitHub Trophies
+### 🕯️ Quant Philosophy
+> "In a world of noise, we build the signal. In a world of chaos, we write the logic."
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ImranDev3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ImranDev3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImranDev3)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
+* **Primary Focus:** Automated Alpha Generation in XAUUSD.
+* **Terminal Build:** GILD-AI Stable v1.0.0.
+* **Execution Status:** `Market Connected` 🟢
 
 ---
 
-## 💬 My Philosophy
-
-<div align="center">
-
-> *"Code like a developer. Think like a trader. Analyze like a strategist."*
-> 
-> — **Imran Hossain**
-
-</div>
+### 📫 Connect with the Terminal
+<p align="left">
+  <a href="https://t.me/wmsenginebot" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:contact@imrandev.pro" target="blank"><img src="https://img.shields.io/badge/Enterprise_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImranDev3&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=302b63&point=00d4ff" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImranDev3&color=blueviolet&style=flat-square&label=TERMINAL+VISITORS" alt="Profile Views" />
+</p>
