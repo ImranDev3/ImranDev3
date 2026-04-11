@@ -1,35 +1,48 @@
-# <p align="center">🔮 IMRAN DEV | QUANT ARCHITECT & SMC STRATEGIST 🔮</p>
+# <p align="center">💎 IMRAN DEV | QUANTITATIVE SYSTEMS ARCHITECT 🚀</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2962FF,100:00FF00&height=280&section=header&text=INSTITUTIONAL%20ALGO%20v1.0&fontSize=50&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00FF00,100:2962FF&height=280&section=header&text=INSTITUTIONAL%20LOGIC%20v1.0&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-LIQUIDITY_HUNTING-00FF00?style=for-the-badge&logo=target&logoColor=black" />
-  <img src="https://img.shields.io/badge/Strategy-SMC_/_ICT_/_CRT-FFD700?style=for-the-badge&logo=diagram&logoColor=black" />
-</p>
-
----
-
-### 🧬 Professional Ecosystem (3D Infrastructure)
-I architect high-performance algorithmic systems. My focus is deconstructing **Smart Money Concepts (SMC)** into executable **Python** logic, bridging the gap between MetaTrader 5 and decentralized liquidity pools.
-
----
-
-### 🛠️ The 3D Tech Arsenal (Animated Icons)
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,js,html,css,linux,git,flask,mongodb&theme=dark" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MetaTrader_5- Algo-2D3436?style=for-the-badge&logo=meta" />
-  <img src="https://img.shields.io/badge/MetaMask-Web3-F6851B?style=for-the-badge&logo=metamask" />
-  <img src="https://img.shields.io/badge/TradingView-Analysis-2962FF?style=for-the-badge&logo=tradingview" />
+  <img src="https://img.shields.io/badge/Strategy-SMC%20%7C%20ICT%20%7C%20CRT-FFD700?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-HUNTING_LIQUIDITY-00FF00?style=for-the-badge" />
 </p>
 
 ---
 
-### 📉 Institutional Performance & Stats
+### 🏛️ Financial Engineering & Web3 Ecosystem
+I architect high-performance algorithmic systems. My focus is deconstructing **Smart Money Concepts (SMC)** into executable **Python** logic, bridging the gap between MetaTrader 5 and global liquidity pools.
+
+---
+
+### 🛠️ Technical Arsenal (Expertise & Skills)
+
+#### 🚀 Programming & Development
+- **Backend Systems:** - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  - <img src="https://img.shields.io/badge/MQL5-004482?style=flat-square&logo=metatrader&logoColor=white" />
+- **Web Technologies:** - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  - <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+- **Data Protocols:** JSON Streaming, REST API Architecture, WebSocket Integration.
+
+#### 📊 Quantitative Trading & Analysis
+- **Advanced Concepts:** - <img src="https://img.shields.io/badge/SMC/ICT/CRT-FFD700?style=flat-square&logo=diagram&logoColor=black" />
+- **Liquidity Models:** BSL/SSL Sweeps, Order Block Mitigation, Market Structure Shifts (MSS).
+- **Risk Management:** Dynamic ATR Position Sizing, Automated Hedge Protocols.
+
+#### 🛰️ Tools & Infrastructure
+- **Trading Platforms:** - <img src="https://img.shields.io/badge/MetaTrader_5-E95420?style=flat-square&logo=meta&logoColor=white" />
+  - <img src="https://img.shields.io/badge/TradingView-2962FF?style=flat-square&logo=tradingview&logoColor=white" />
+- **Operating Systems:** - <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+- **Version Control:** - <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  - <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+- **Web3 Tools:** - <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" />
+
+---
+
+### 📉 Institutional Performance Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&border_color=00FF00" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&langs_count=8&bg_color=00000000&border_color=2962FF" />
@@ -37,8 +50,8 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 
 ---
 
-### 🛰️ Live Deployment: GILD-AI Terminal
-> Enterprise-grade Gold (XAUUSD) automated engine with real-time JSON streaming.
+### 🚀 Key Project: GILD-AI Terminal (v1.0 Stable)
+> Enterprise-grade Gold (XAUUSD) automated engine using SMC & Institutional logic.
 
 <p align="center">
   <a href="https://github.com/ImranDev3/Gild-AI-Terminal">
@@ -48,25 +61,15 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 
 ---
 
-### ⚡ System Operational Status
-| Operational Layer | Core Technology | Execution Status |
-| :--- | :--- | :--- |
-| **Quant Engine** | **Python (Pandas/NumPy)** | `Scanning Liquidity` 🟢 |
-| **Logic Layer** | **MQL5 / PineScript** | `Order Blocks Active` 🔵 |
-| **UI Terminal** | **JavaScript / HTML / CSS** | `Dynamic Render` 🟣 |
-| **Alert Gateway** | **Telegram API** | `Node Online` 🟢 |
-
----
-
-### 🕯️ Quant Philosophy
-> **"Market price is an illusion; Liquidity is the destination. We write the code that finds the path."**
+### ⚡ Operational Protocol
+> **"Market price is an illusion; Liquidity is the destination. Code is the engine. We follow the Smart Money."**
 
 ---
 
 ### 📫 Connect with the Architect
 <p align="left">
-  <a href="https://t.me/wmsenginebot" target="blank"><img src="https://img.shields.io/badge/Terminal_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:contact@imrandev.pro" target="blank"><img src="https://img.shields.io/badge/Business_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/wmsenginebot" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:contact@imrandev.pro" target="blank"><img src="https://img.shields.io/badge/Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
