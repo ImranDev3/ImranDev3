@@ -1,11 +1,19 @@
-# <p align="center">🏛️ IMRAN DEV | QUANTITATIVE ANALYST & ENGINEER 🚀</p>
+# <p align="center">🏛️ IMRAN DEV | QUANTITATIVE LIQUIDITY ENGINEER 🚀</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e272e&height=240&section=header&text=FINANCIAL%20ENGINEER&fontSize=60&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e272e&height=250&section=header&text=SMC%20•%20ICT%20•%20CRT&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </p>
 
-## 🛡️ Professional Profile
-I am a **Full-Stack Developer** and **Financial Analyst** specializing in the architecture of automated trading systems. My expertise lies at the intersection of mathematical finance and software engineering, where I build data-driven models to extract alpha from the **XAUUSD (Gold)** market.
+## 🛡️ Executive Summary
+I am a **Full-Stack Developer** and **Financial Analyst** specializing in algorithmic execution based on **Smart Money Concepts (SMC)** and **ICT Institutional Order Flow**. I engineer automated systems that identify **Liquidity Sweeps**, **Market Structure Shifts (MSS)**, and **Fair Value Gaps (FVG)** with high precision.
+
+---
+
+### 📉 Trading Philosophy: Institutional Grade
+My algorithms are built on the core pillars of price action:
+* **SMC & ICT:** Tracking Bank Orders & Liquidity Pools.
+* **CRT Logic:** Analyzing Price Cycles and Structural Reversals.
+* **Liquidity Engineering:** Detecting Buy-Side and Sell-Side Liquidity (BSL/SSL).
 
 ---
 
@@ -13,31 +21,31 @@ I am a **Full-Stack Developer** and **Financial Analyst** specializing in the ar
 
 | **Domain** | **Capabilities** |
 | :--- | :--- |
-| **Financial Analysis** | Quantitative Modeling, Risk Assessment, Market Microstructure Analysis. |
-| **Development** | Python (Backend), JavaScript (Real-time UI), Flask API, Linux Security. |
-| **Trading Logic** | Algorithmic Execution, Multi-Timeframe Analysis, Volatility Arbitrage. |
-| **Data Science** | JSON Streaming, Tick-Data Analysis, Statistical Filtering. |
+| **Market Analysis** | Institutional Order Flow, SMC, ICT, & CRT Price Action. |
+| **Quant Development** | Python-MT5 Bridges, Real-time Data Streaming. |
+| **Liquidity Logic** | Automated POI (Point of Interest) & Order Block Mapping. |
+| **Full-Stack** | Dynamic Dashboards (JS/HTML) for Live Signal Tracking. |
 
 ---
 
-### 🚀 Flagship Project: GILD-AI Terminal
+### 🚀 Core Intelligence: GILD-AI Terminal
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=radical&show_owner=true" />
 </p>
 
 ---
 
-### 💻 Multi-Layer Tech Stack
+### 💻 Modern Multi-Language Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Financial_Analyst-2D3436?style=for-the-badge&logo=googlesheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Python_Quant-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/FullStack_Dev-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/SMC_Strategist-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Order_Flow-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
 
-### 📊 System Performance & Coding Activity
+### 📊 GitHub Analysis & Coding Velocity
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=radical&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=radical&hide=html,css" />
@@ -45,22 +53,22 @@ I am a **Full-Stack Developer** and **Financial Analyst** specializing in the ar
 
 ---
 
-### ⚡ Analytical Philosophy
-> "Trading is a game of probabilities; Coding is the art of automating those probabilities. I don't just trade; I engineer success."
+### ⚡ The "Smart Money" Logic
+> "Retail traders look for patterns; Institutions look for Liquidity. We build the code that follows the Money."
 
-* **Current Strategy:** Trend-following Momentum Engine for Gold.
-* **Architecture:** Python-MT5 High-Speed Bridge.
-* **Terminal Version:** `1.0.0 Stable` | **Status:** `Live Analysis` 🟢
+* **Current Focus:** Automating XAUUSD (Gold) Liquidity Sweeps.
+* **Strategy:** MSS + FVG Confirmation + Premium/Discount Pricing.
+* **System Status:** `Hunting Liquidity` 🟢
 
 ---
 
-### 📫 Connect for Inquiries
+### 📫 Secure Terminal Access
 <p align="left">
-  <a href="https://t.me/wmsenginebot" target="blank"><img src="https://img.shields.io/badge/Terminal_Access-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:contact@imrandev.pro" target="blank"><img src="https://img.shields.io/badge/Consult_Analyst-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/wmsenginebot" target="blank"><img src="https://img.shields.io/badge/SMC_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:contact@imrandev.pro" target="blank"><img src="https://img.shields.io/badge/Business_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImranDev3&color=1e272e&style=flat-square&label=QUANT+ACCESS+COUNT" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ImranDev3&color=1e272e&style=flat-square&label=MARKET+VISITORS" alt="Profile Views" />
 </p>
