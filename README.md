@@ -34,27 +34,26 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 <p align="left">
   <img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
   <img src="https://img.shields.io/badge/MetaTrader_5-E95420?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaEditor-Algo-004482?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MetaMask-Web3-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaEditor-Algo-004482?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 📉 Institutional Performance Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&border_color=00FF00" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&langs_count=8&bg_color=00000000&border_color=2962FF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=dark" />
 </p>
 
 ---
 
 ### 🚀 Flagship Project: GILD-AI Terminal
-> Enterprise-grade Gold (XAUUSD) automated engine with real-time institutional logic.
-
 <p align="center">
   <a href="https://github.com/ImranDev3/Gild-AI-Terminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=dark" />
   </a>
 </p>
 
@@ -67,7 +66,7 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=tokyonight&background=00000000&stroke=00FF00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
