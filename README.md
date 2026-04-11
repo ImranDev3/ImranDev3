@@ -42,10 +42,13 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 
 ---
 
-### 📉 Institutional Performance Stats
+### 📉 System Performance & Coding Velocity
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImranDev3&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImranDev3&theme=tokyonight" width="400" />
 </p>
 
 ---
@@ -53,20 +56,8 @@ I architect high-performance algorithmic systems. My focus is deconstructing **S
 ### 🚀 Flagship Project: GILD-AI Terminal
 <p align="center">
   <a href="https://github.com/ImranDev3/Gild-AI-Terminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=transparent&title_color=00FF00&text_color=ffffff&icon_color=2962FF" />
   </a>
-</p>
-
----
-
-### 📫 Connect with the Architect
-<p align="left">
-  <a href="https://t.me/wmsenginebot" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:contact@imrandev.pro" target="blank"><img src="https://img.shields.io/badge/Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
 ---
