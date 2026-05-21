@@ -1,50 +1,60 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    IMRAN · ImranDev3                          -->
-<!--           Frontend Developer & Funded XAU/USD Trader         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--
+  ██╗███╗   ███╗██████╗  █████╗ ███╗   ██╗
+  ██║████╗ ████║██╔══██╗██╔══██╗████╗  ██║
+  ██║██╔████╔██║██████╔╝███████║██╔██╗ ██║
+  ██║██║╚██╔╝██║██╔══██╗██╔══██║██║╚██╗██║
+  ██║██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚████║
+  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+  ImranDev3 · @RaccoFx · Dhaka, BD
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=220&section=header&text=IMRAN&fontSize=90&fontColor=D4AF37&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Funded%20XAU%2FUSD%20Trader%20%7C%20%40RaccoFx&descAlignY=62&descSize=16&descColor=aaaaaa" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=520&lines=Frontend+Developer+%F0%9F%92%BB;XAU%2FUSD+Funded+Trader+%F0%9F%AA%99;ICT+%7C+SMC+%7C+CRT+Strategist+%F0%9F%93%88;Building+from+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;WMS+FX+%7C+Imran+FX+%7C+%40RaccoFx" alt="Typing Animation" />
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ImranDev3&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS)](https://github.com/ImranDev3)
-[![GitHub followers](https://img.shields.io/github/followers/ImranDev3?style=for-the-badge&color=D4AF37&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ImranDev3?tab=followers)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-imran--fx.netlify.app-D4AF37?style=for-the-badge&labelColor=0d1117)](https://imran-fx.netlify.app)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:D4AF37&height=240&section=header&text=Imran&fontSize=100&fontColor=D4AF37&animation=fadeIn&fontAlignY=44&desc=Frontend%20Developer%20%7C%20XAU%2FUSD%20Funded%20Trader%20%7C%20%40RaccoFx&descAlignY=64&descSize=15&descColor=888888" width="100%"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2600&pause=1000&color=D4AF37&center=true&vCenter=true&width=560&lines=Frontend+Developer+💻;XAU%2FUSD+Funded+Trader+🪙;ICT+%7C+SMC+%7C+CRT+%7C+MSNR+%7C+Alchemist+📈;Prop+Firm+%7C+Maven+%7C+DirectFunded+🏆;Building+Cool+Stuff+from+Dhaka+🇧🇩;%40RaccoFx+%7C+imran-fx.netlify.app+🌐" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ImranDev3&style=for-the-badge&color=D4AF37&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/ImranDev3)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/ImranDev3?style=for-the-badge&color=D4AF37&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ImranDev3?tab=followers)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-imran--fx.netlify.app-D4AF37?style=for-the-badge&labelColor=0d1117)](https://imran-fx.netlify.app)
+
+</div>
+
+<br/>
+
 ---
 
-<!-- ══════════ ABOUT ══════════ -->
+<!-- ════════════ ABOUT ME ════════════ -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=github_dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc&bg_color=0d1117&count_private=true" width="420"/>
+<img align="right" width="430" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc&count_private=true&rank_icon=github"/>
 
 ### `> whoami`
 
 ```yaml
-Name     : Imran
-Handle   : @RaccoFx  |  ImranDev3
-Location : Dhaka, Bangladesh 🇧🇩
-Role     : Frontend Developer + Funded Trader
-Brand    : WMS FX  |  Imran FX
-Focus    : XAU/USD · ICT/SMC · Prop Firm Trading
-Strategy : CRT · MSNR · Alchemist
-Prop     : Maven Trading · DirectFundedTrader
+handle   : ImranDev3  |  @RaccoFx
+name     : Imran
+location : Dhaka, Bangladesh  🇧🇩
+role     : Frontend Developer  +  Funded Trader
+market   : XAU/USD  |  BTC/USDT  |  Polymarket
+strategy : ICT · SMC · CRT · MSNR · Alchemist
+prop     : Maven Trading  ·  DirectFundedTrader
+brand    : Imran FX  |  @RaccoFx
 ```
 
 ```js
 const imran = {
-  code   : ["HTML", "CSS", "JavaScript", "React", "Python"],
-  trade  : ["XAU/USD", "BTC/USDT", "Polymarket"],
-  method : ["ICT", "SMC", "CRT", "MSNR", "Alchemist"],
-  tools  : ["TradingView", "MT4/MT5", "Pine Script"],
-  motto  : "Build by day. Trade by night. Ship always."
+  build  : ["Vanilla JS", "React", "Python", "Pine Script"],
+  trade  : ["XAU/USD", "BTC/USDT", "Prediction Markets"],
+  style  : "Clean code. Precise entries. Ship fast.",
+  motto  : "Build by day. Trade by night. Win always."
 };
 ```
 
@@ -52,237 +62,222 @@ const imran = {
 
 ---
 
-<!-- ══════════ TECH STACK ══════════ -->
+<!-- ════════════ TECH STACK ════════════ -->
 
 <div align="center">
 
-### ⚡ Tech Stack & Tools
+## ⚡ Stack & Tools
 
 <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Backend / Scripts**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pine Script](https://img.shields.io/badge/Pine_Script-1E88E5?style=for-the-badge&logo=tradingview&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 
-<br/>
+**Tools & Platforms**
 
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
-![MetaTrader](https://img.shields.io/badge/MetaTrader_4%2F5-0072BB?style=for-the-badge&logo=metatrader&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Trading**
+
+![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+![MetaTrader](https://img.shields.io/badge/MetaTrader_4%2F5-0072BB?style=for-the-badge&logoColor=white)
+![MT5](https://img.shields.io/badge/XAU%2FUSD-GOLD_TRADER-D4AF37?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
-<!-- ══════════ PROJECTS ══════════ -->
+<!-- ════════════ PROJECTS ════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <br/>
 
-<!-- ROW 1 -->
 <div align="center">
-<table>
+<table width="100%">
+
+<!-- ROW 1 -->
 <tr>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+#### 🃏 Trade Card Generator
+Professional trade card creator — upload chart + P&L screenshots → export styled **PNG cards** for social media. Zero backend, pure browser.
 
-### 🃏 WMS FX Trade Card Generator
-> Upload chart & P&L screenshots → auto-generate styled **trade card PNGs** ready for social sharing. Zero backend, pure browser magic.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Canvas API](https://img.shields.io/badge/Canvas_API-black?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**`Brand` · `WMS FX` · `Trading Tools`**
+`HTML` `Canvas API` `CSS`
 
 </td>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+#### 📊 CRT Backtesting Engine
+Full **Candle Range Theory** backtester for XAU/USD. Chart.js visual replay, session filters, win-rate stats, live P&L sim.
 
-### 📊 CRT Backtesting Engine
-> Full **Candle Range Theory backtester** for XAU/USD — visual Chart.js playback, session filters, win-rate stats, live P&L simulation.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-**`ICT` · `CRT` · `Backtesting` · `XAU/USD`**
+`JavaScript` `Chart.js` `ICT`
 
 </td>
+<td width="33%" valign="top">
 
+#### 🧠 ICT A–Z Reference
+Interactive browser widget with **130+ ICT/SMC concepts** — searchable, categorized, offline. Every term a trader needs.
+
+`HTML` `JavaScript` `Vanilla`
+
+</td>
 </tr>
+
+<!-- ROW 2 -->
 <tr>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+#### 🤖 Polymarket AI Bot
+Python bot using **live CLOB API** — local AI scoring, auto order management, BTC/USDT prediction market trading.
 
-### 🤖 Polymarket AI Trading Bot
-> Python bot that pulls **live Polymarket CLOB API** data, scores predictions with local AI, and places/manages orders autonomously.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-**`Polymarket` · `CLOB API` · `AI Scoring`**
+`Python` `CLOB API` `AI`
 
 </td>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+#### 📡 Imran FX Signal Tool
+Live **XAU/USD signal dashboard** powered by Twelve Data API — EMA, RSI, ICT alerts, real-time feed, auto-refresh.
 
-### 🧠 ICT A-to-Z Reference Widget
-> Browser-based interactive reference covering **130+ ICT/SMC concepts** — searchable, categorized, offline-first. Every ICT term explained.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**`ICT` · `SMC` · `Education` · `Reference`**
+`JavaScript` `Twelve Data` `API`
 
 </td>
+<td width="33%" valign="top">
 
+#### 📐 Pine Script Indicator Suite
+Full TradingView pack — **Order Blocks, FVGs, MSNR zones, EMA, RSI divergence, MTF structure** in one clean suite.
+
+`Pine Script` `TradingView`
+
+</td>
 </tr>
+
+<!-- ROW 3 -->
 <tr>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+#### 🏎️ APEX NATURE DRIVE
+HTML5 browser racing game — **real car physics**, Web Audio API engine sounds, procedural natural environments. No install.
 
-### 🏎️ APEX NATURE DRIVE (Racing Game)
-> HTML5 browser racing game with **real car physics**, Web Audio API engine sounds, procedural natural environments. No installs needed.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Canvas API](https://img.shields.io/badge/Canvas_API-black?style=flat-square)
-![Web Audio](https://img.shields.io/badge/Web_Audio_API-FF6D00?style=flat-square)
-
-**`Game Dev` · `Canvas` · `Physics Engine`**
+`JavaScript` `Canvas` `Web Audio`
 
 </td>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+#### 📱 Phone Number Manager
+Excel upload → auto country-code detect → **one-click copy** → localStorage persistence. Built for real SMS ops.
 
-### 📱 Phone Number Manager (SMS Tool)
-> Excel-upload → auto country-code detection → **one-click copy** → localStorage persistence. Built for real-world SMS operations workflow.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SheetJS](https://img.shields.io/badge/SheetJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**`Productivity` · `SMS` · `No Backend`**
+`HTML` `SheetJS` `LocalStorage`
 
 </td>
+<td width="33%" valign="top">
 
+#### 📋 CDR Stats Dashboard
+Live call data records dashboard — **statistics charts**, one-click number copy, shared login, mirrored system.
+
+`JavaScript` `Chart.js` `CSS`
+
+</td>
 </tr>
+
+<!-- ROW 4 -->
 <tr>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+#### 🎨 DARK ORACLE Theme
+Custom **TradingView chart color system** — dark, high-contrast professional layouts for precision market analysis.
 
-### 🎨 DARK ORACLE — TradingView Theme
-> Custom **color theme system** for TradingView branded under `@RaccoFx`. Dark, high-contrast chart layouts for professional analysis.
-
-![Pine Script](https://img.shields.io/badge/Pine_Script-1E88E5?style=flat-square&logo=tradingview&logoColor=white)
-
-**`TradingView` · `@RaccoFx` · `Brand`**
+`Pine Script` `TradingView` `Design`
 
 </td>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+#### 🤖 Rule-Based AI Trade Agent
+Chat UI powered trading agent — rule-based AI logic applied to ICT/SMC structure for **real-time trade decisions**.
 
-### 📡 WMS FX Signal Tool
-> Live **XAU/USD signal dashboard** powered by Twelve Data API — EMA, RSI, ICT structure alerts, real-time price feed, auto-refresh.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Twelve Data](https://img.shields.io/badge/Twelve_Data_API-0D47A1?style=flat-square)
-
-**`Signals` · `WMS FX` · `Live Data`**
+`JavaScript` `AI` `ICT`
 
 </td>
+<td width="33%" valign="top">
 
+#### 🎙️ Imran AI — Voice Chat
+Local AI voice assistant — **Whisper STT + espeak TTS**, custom wake word, Ollama (llama3.2), Wayland-compatible.
+
+`Python` `Whisper` `Ollama`
+
+</td>
 </tr>
-<tr>
 
-<td width="50%" valign="top">
-
-### 📐 Pine Script ICT/SMC Indicator Suite
-> Full TradingView indicator pack — **Order Blocks, FVGs, MSNR zones, EMA crossover, RSI divergence, MTF structure** — all in one suite.
-
-![Pine Script](https://img.shields.io/badge/Pine_Script-1E88E5?style=flat-square&logo=tradingview&logoColor=white)
-
-**`Pine Script` · `ICT` · `TradingView`**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📋 SMS CDR Statistics Dashboard
-> Mirror of a live CDR dashboard — **real-time call data records**, statistics charts, one-click number copy, shared login system.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-**`Dashboard` · `CDR` · `Analytics`**
-
-</td>
-
-</tr>
 </table>
 </div>
 
 ---
 
-<!-- ══════════ TRADING IDENTITY ══════════ -->
+<!-- ════════════ TRADING ════════════ -->
 
-## 🪙 Trading Identity · WMS FX
+## 🪙 Trading · @RaccoFx
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                  ◆  WMS FX  |  IMRAN FX  ◆                  ║
-║                                                              ║
-║   Market    →  XAU/USD (Gold)  |  BTC/USDT                  ║
-║   Strategy  →  CRT · MSNR · Alchemist · ICT/SMC             ║
-║   Sessions  →  London · New York                             ║
-║   Prop Firm →  Maven Trading · DirectFundedTrader            ║
-║   Handle    →  @RaccoFx  |  @Imran.XAU                      ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────┐
+│               ◆  IMRAN FX  ·  @RaccoFx  ◆              │
+│                                                         │
+│  Market    ▸  XAU/USD (Gold)  |  BTC/USDT              │
+│  Strategy  ▸  ICT · SMC · CRT · MSNR · Alchemist       │
+│  Sessions  ▸  London  ·  New York                       │
+│  Prop Firm ▸  Maven Trading  ·  DirectFundedTrader      │
+│  Focus     ▸  Candle Range Theory  ·  Malaysian SNR     │
+└─────────────────────────────────────────────────────────┘
 ```
 
-![XAU/USD](https://img.shields.io/badge/XAU%2FUSD-GOLD_TRADER-D4AF37?style=for-the-badge&labelColor=0d1117)
-![ICT](https://img.shields.io/badge/ICT-SMC_METHODOLOGY-silver?style=for-the-badge&labelColor=0d1117)
-![CRT](https://img.shields.io/badge/CRT-CANDLE_RANGE_THEORY-bronze?style=for-the-badge&labelColor=0d1117)
-![Prop Firm](https://img.shields.io/badge/PROP_FIRM-FUNDED_TRADER-00C853?style=for-the-badge&labelColor=0d1117)
+![XAU/USD](https://img.shields.io/badge/XAU%2FUSD-GOLD_MARKET-D4AF37?style=flat-square&labelColor=0d1117)
+![CRT](https://img.shields.io/badge/CRT-CANDLE_RANGE_THEORY-aaaaaa?style=flat-square&labelColor=0d1117)
+![ICT](https://img.shields.io/badge/ICT-SMC_METHODOLOGY-aaaaaa?style=flat-square&labelColor=0d1117)
+![MSNR](https://img.shields.io/badge/MSNR-MALAYSIAN_SNR-aaaaaa?style=flat-square&labelColor=0d1117)
+![Prop](https://img.shields.io/badge/PROP_FIRM-FUNDED-00C853?style=flat-square&labelColor=0d1117)
 
 </div>
 
 ---
 
-<!-- ══════════ GITHUB STATS ══════════ -->
+<!-- ════════════ STATS ════════════ -->
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=github_dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc&bg_color=0d1117&count_private=true&rank_icon=github" width="48%"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=github-dark-blue&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&background=0d1117&dates=666666&sideLabels=888888" width="49%"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=github-dark-blue&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&background=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=github_dark&hide_border=true&title_color=D4AF37&text_color=cccccc&bg_color=0d1117&langs_count=6" width="38%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=github_dark&hide_border=true&title_color=D4AF37&text_color=cccccc&bg_color=0d1117&langs_count=8" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImranDev3&theme=github-compact&bg_color=0d1117&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImranDev3&theme=github-compact&bg_color=0d1117&color=D4AF37&line=D4AF37&point=D4AF37&hide_border=true&area=true&area_color=D4AF37" width="97%"/>
 
 </div>
 
 ---
 
-<!-- ══════════ SOCIAL ══════════ -->
+<!-- ════════════ CONNECT ════════════ -->
 
-## 🌐 Find Me Online
+## 🌐 Connect
 
 <div align="center">
 
@@ -292,22 +287,20 @@ const imran = {
 
 <br/>
 
-[![Twitter/X](https://img.shields.io/badge/𝕏_Twitter-%40RaccoFx-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/RaccoFx)
+[![Twitter / X](https://img.shields.io/badge/𝕏-%40RaccoFx-1d9bf0?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/RaccoFx)
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%40Imran.XAU-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/Imran.XAU)
-[![Telegram](https://img.shields.io/badge/Telegram-%40WMS__FX-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/WMS_FX)
-[![YouTube](https://img.shields.io/badge/YouTube-WMS_FX-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@WMSFX)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/WMS_FX)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com)
 
-</div>
+<br/><br/>
 
----
+> *"Precise code. Precise entries. No noise."*
 
-<!-- ══════════ FOOTER ══════════ -->
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=120&section=footer&text=&fontColor=D4AF37&animation=fadeIn" width="100%"/>
-
-*"Execute the plan. Trust the process. Let the market pay."*
-&nbsp;·&nbsp; **WMS FX · @RaccoFx · Dhaka, BD** &nbsp;·&nbsp; `2025`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
