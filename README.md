@@ -1,66 +1,88 @@
-# <p align="center">🔮 IMRAN DEV | QUANTITATIVE SYSTEMS ARCHITECT 🚀</p>
+# Imran Dev
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00FF00,100:2962FF&height=280&section=header&text=INSTITUTIONAL%20LOGIC%20v1.0&fontSize=50&animation=twinkling&fontColor=ffffff" />
-</p>
+**Quantitative Systems Architect** — building algorithmic trading systems, Web3 tools, and secure client-side cryptography.
 
 ---
 
-### 🧬 Professional Ecosystem (Institutional Architecture)
-I architect high-performance algorithmic systems. My focus is deconstructing **Smart Money Concepts (SMC)** into executable logic, bridging the gap between MetaTrader 5, TradingView, and global liquidity pools.
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ImranDev3/Gild-AI-Terminal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=transparent&title_color=00FF00&text_color=ffffff&icon_color=2962FF" />
+      </a>
+      <br>
+      <strong>GILD-AI Terminal</strong> — AI-powered trading terminal integrating Smart Money Concepts (SMC), ICT, and liquidity-based strategies with real-time market analysis.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ImranDev3/2fa-Authenticator-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=2fa-Authenticator-&theme=transparent&title_color=007AFF&text_color=ffffff&icon_color=007AFF" />
+      </a>
+      <br>
+      <strong>Authenticator 2FA</strong> — Client-side TOTP authenticator with Argon2id + AES-256-GCM encryption, MetaMask/Bitcoin/WebAuthn/Google/Password backup, WASM crypto core, and PWA offline support.<br>
+      <a href="https://2faotp.vercel.app">→ 2faotp.vercel.app</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Technical Arsenal (Expertise & Skills)
+### Tech Stack
 
-#### 🚀 Programming & Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PineScript-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQL5/4-004482?style=for-the-badge&logo=metatrader&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-#### 📊 Quantitative Trading & Analysis
-<p align="left">
-  <img src="https://img.shields.io/badge/Strategy-SMC%20%7C%20ICT%20%7C%20CRT-FFD700?style=for-the-badge&logo=target&logoColor=black" />
-  <img src="https://img.shields.io/badge/Logic-Order_Blocks-00FF00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model-Liquidity_Sweeps-2962FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Risk-ATR_Dynamic-red?style=for-the-badge" />
-</p>
-
-#### 🛰️ Platforms & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaTrader_5-E95420?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaMask-Web3-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaEditor-Algo-004482?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-EF4E27?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/AssemblyScript-34A853?style=flat-square&logo=assemblyscript&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML/CSS-E34C26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Trading</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MQL5/4-004482?style=flat-square&logo=metatrader&logoColor=white" />
+      <img src="https://img.shields.io/badge/PineScript-2962FF?style=flat-square&logo=tradingview&logoColor=white" />
+      <img src="https://img.shields.io/badge/SMC/ICT/CRT-FFD700?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Blockchain</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MetaMask-Web3-F6851B?style=flat-square&logo=metamask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bitcoin-Web3-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebAuthn/FIDO2-0052CC?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📉 System Performance & Coding Velocity
+### GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImranDev3&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImranDev3&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
 
-### 🚀 Flagship Project: GILD-AI Terminal
 <p align="center">
-  <a href="https://github.com/ImranDev3/Gild-AI-Terminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImranDev3&repo=Gild-AI-Terminal&theme=transparent&title_color=00FF00&text_color=ffffff&icon_color=2962FF" />
-  </a>
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImranDev3&color=00FF00&style=plastic&label=TERMINAL+VISITORS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ImranDev3&color=blue&style=plastic&label=PROFILE+VIEWS" />
 </p>
