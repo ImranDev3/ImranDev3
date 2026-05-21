@@ -5,12 +5,12 @@
   ██╔══██╗██╔══██║██║     ██║     ██║   ██║    ██╔══╝   ██╔██╗
   ██║  ██║██║  ██║╚██████╗╚██████╗╚██████╔╝    ██║     ██╔╝ ██╗
   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝    ╚═╝     ╚═╝  ╚═╝
-  @RaccoFx · ImranDev3 · Dhaka, BD
+  Imran Hossain · ImranDev3 · Dhaka, BD
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:111111,100:D4AF37&height=230&section=header&text=%40RaccoFx&fontSize=88&fontColor=D4AF37&animation=fadeIn&fontAlignY=44&desc=Frontend%20Developer%20%7C%20XAU%2FUSD%20Funded%20Trader&descAlignY=64&descSize=15&descColor=666666" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:111111,100:D4AF37&height=230&section=header&text=Imran%20Hossain&fontSize=88&fontColor=D4AF37&animation=fadeIn&fontAlignY=44&desc=Frontend%20Developer%20%7C%20XAU%2FUSD%20Funded%20Trader&descAlignY=64&descSize=15&descColor=666666" width="100%"/>
 
 </div>
 
@@ -25,7 +25,7 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝    ╚═╝     ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=900&color=D4AF37&center=true&vCenter=true&width=560&lines=Frontend+Developer+%2F%2F+Funded+Trader;XAU%2FUSD+%7C+ICT+%7C+SMC+%7C+CRT+%7C+MSNR;Prop+Firm+%3A%3A+Maven+%7C+DirectFundedTrader;%24+location+%3D+%22Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22;%24_+%40RaccoFx" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=900&color=D4AF37&center=true&vCenter=true&width=560&lines=Frontend+Developer+%2F%2F+Funded+Trader;XAU%2FUSD+%7C+ICT+%7C+SMC+%7C+CRT+%7C+MSNR;Prop+Firm+%3A%3A+Maven+%7C+DirectFundedTrader;%24+location+%3D+%22Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22;%24_+Imran+Hossain" alt="Typing SVG" />
 
 <br/>
 
@@ -41,7 +41,7 @@
 
 ```yaml
 # ──────────────────────────────────────────────
-  handle   : "@RaccoFx"  //  ImranDev3
+  handle   : "Imran Hossain" // ImranDev3
   location : "Dhaka, Bangladesh"
   role     : ["Frontend Developer", "Funded Trader"]
   market   : ["XAU/USD", "BTC/USDT", "Polymarket"]
@@ -52,7 +52,7 @@
 ```
 
 ```js
-const raccoFx = {
+const imranHossain = {
   stack  : ["HTML", "CSS", "JavaScript", "React", "Python", "Pine Script"],
   trade  : ["XAU/USD", "BTC/USDT", "Prediction Markets"],
   tools  : ["TradingView", "MT4/MT5", "Chart.js", "Node.js"],
@@ -186,7 +186,7 @@ const raccoFx = {
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│                    @RaccoFx  ·  XAU/USD                    │
+│                 Imran Hossain  ·  XAU/USD                    │
 ├────────────────────────────────────────────────────────────┤
 │  market    ▸  XAU/USD (Gold)  |  BTC/USDT                 │
 │  strategy  ▸  ICT  ·  SMC  ·  CRT  ·  MSNR  ·  Alchemist │
@@ -217,7 +217,7 @@ const raccoFx = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0d1117&height=110&section=footer" width="100%"/>
 
 ```
-// "Precise code. Precise entries. No noise."  —  @RaccoFx
+// "Precise code. Precise entries. No noise."  —  Imran Hossain
 ```
 
 </div>
