@@ -464,8 +464,6 @@ Personal developer portfolio — Frontend Dev, AI Engineer and Funded Trader. Va
 [![GitHub](https://img.shields.io/badge/GitHub-ImranDev3-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ImranDev3)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-imran--fx.netlify.app-06b6d4?style=for-the-badge&labelColor=0d1117)](https://imran-fx.netlify.app)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-imrandev3@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:imrandev3@gmail.com)
 
 </div>
 
