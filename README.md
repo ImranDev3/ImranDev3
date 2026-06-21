@@ -48,46 +48,46 @@ I'm a self-taught developer building production-grade tools that solve real prob
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+### Core Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Pine Script](https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
+![Pine Script](https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white&labelColor=0d1117)
 
-**Frontend**
+### Frontend &amp; UI
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=0d1117)
 
-**Backend & Database**
+### Backend &amp; Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
 
-**AI & ML**
+### AI &amp; Machine Learning
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0d1117)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)
 
-**Trading & Markets**
+### Trading &amp; Markets
 
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
-![MetaTrader](https://img.shields.io/badge/MetaTrader-0072BB?style=for-the-badge&logoColor=white)
-![Bybit](https://img.shields.io/badge/Bybit-F7A600?style=for-the-badge&logo=bybit&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white&labelColor=0d1117)
+![MetaTrader](https://img.shields.io/badge/MetaTrader-0072BB?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![Bybit](https://img.shields.io/badge/Bybit-F7A600?style=for-the-badge&logo=bybit&logoColor=white&labelColor=0d1117)
+![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black&labelColor=0d1117)
 
 </div>
 
@@ -107,23 +107,97 @@ I'm a self-taught developer building production-grade tools that solve real prob
 
 ---
 
-## Featured Projects
+## 🏆 Featured Projects
 
-### AI &amp; Machine Learning
+<div align="center">
+
+*The flagship work — production-grade, ambitious, and personally proud of these.*
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🧠 ZeroCostAI](https://github.com/ImranDev3/ZeroCostAI-)**
+### 🏆 [ZeroCostAI](https://github.com/ImranDev3/ZeroCostAI-)
 
-Free AI coding assistant CLI — 9 providers (OpenAI, Claude, Gemini, Groq, Mistral, Cohere, Together, OpenRouter, Ollama) from a single manifest. No backend. Zero cost.
+**Free AI coding assistant CLI** — 9 providers (OpenAI, Claude, Gemini, Groq, Mistral, Cohere, Together, OpenRouter, Ollama) from a single manifest. No backend. File ops, shell commands, tool calling. Zero cost.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-D4AF37?style=flat-square)
-![Free](https://img.shields.io/badge/Zero--Cost-555?style=flat-square)
+`TypeScript` `CLI` `Multi-Provider` `Zero-Cost`
+
+⭐ **Why featured:** Most ambitious tool — solves the "AI vendor lock-in" problem in one CLI.
 
 </td>
+<td width="50%" valign="top">
+
+### 🏆 [Verdanta AI Hub](https://github.com/ImranDev3/verdanta-ai-hub)
+
+**AI membership SaaS platform** — React web app, admin dashboard, and secure Manifest V3 Chrome extension. BYOK (bring your own AI keys) model.
+
+`React` `MV3` `SaaS` `BYOK` `MongoDB`
+
+⭐ **Why featured:** Full SaaS stack with custom Chrome extension — production architecture.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 [Open Download Manager](https://github.com/ImranDev3/open-download-manager)
+
+**Blazing-fast multi-platform download manager** — Electron + React + C++ native core. Dynamic file segmentation, pause/resume, dark UI, Windows/macOS/Linux.
+
+`Electron` `React` `C++` `Cross-Platform` `Node-API`
+
+⭐ **Why featured:** Native C++ addon integration — high-performance download engine.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 [Hyper Captcha Solver](https://github.com/ImranDev3/hyper-captcha-solver)
+
+**Self-contained MV3 Chrome extension** — auto-solves Text, reCAPTCHA v2 Audio, and hCaptcha challenges with in-browser OCR. No backend, no Python, no Flask.
+
+`Chrome-Extension` `MV3` `Tesseract-OCR` `Web-Speech` `Stealth`
+
+⭐ **Why featured:** Pure in-browser captcha solving — unique approach.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 [2FA Authenticator](https://github.com/ImranDev3/2fa-Authenticator-)
+
+**Client-side TOTP authenticator** — MetaMask, Bitcoin, WebAuthn, Google and Password-encrypted backup. Argon2id + AES-256-GCM. PWA, offline-first.
+
+`PWA` `TOTP` `Argon2` `AES-256-GCM` `WebAuthn`
+
+⭐ **Why featured:** Enterprise-grade security, real cryptography, zero server.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 [RiskMaster Platinum](https://github.com/ImranDev3/risk-master-analytics)
+
+**Institutional-grade web risk-management suite** — multi-target R:R, commission-aware profit, 100-trade equity simulator, cross-asset correlation matrix.
+
+`JavaScript` `Risk-Management` `Monte-Carlo` `Trading`
+
+⭐ **Why featured:** Hedge-fund-grade analytics, browser-based.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 All Projects
+
+### 🤖 AI &amp; Machine Learning
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 **[✨ Zenova AI Studio](https://github.com/ImranDev3/ai-content-factory)**
@@ -133,19 +207,6 @@ Free-tier AI content and poster generator — Facebook posts, blogs, YouTube scr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS-D4AF37?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🌿 Verdanta AI Hub](https://github.com/ImranDev3/verdanta-ai-hub)**
-
-AI membership SaaS with React web app, admin dashboard, and Manifest V3 Chrome extension. BYOK (bring your own AI keys).
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MV3](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome)
-![BYOK](https://img.shields.io/badge/BYOK-D4AF37?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -160,17 +221,7 @@ OpenCode Skill — persistent memory layer for AI coding agents. Remembers your 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**[🔐 2FA Authenticator](https://github.com/ImranDev3/2fa-Authenticator-)**
-
-Client-side TOTP authenticator with MetaMask, Bitcoin, WebAuthn, Google and Password-encrypted backup. Argon2id + AES-256-GCM. PWA, offline-first.
-
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa)
-![Security](https://img.shields.io/badge/Security-D4AF37?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 **[🤖 AutoReply Pro](https://github.com/ImranDev3/fb-auto-reply)**
 
@@ -178,13 +229,14 @@ AI-powered auto-reply bot for Facebook Messenger and WhatsApp. Multi-tenant SaaS
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS-D4AF37?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-### Trading &amp; Finance
+### 📈 Trading &amp; Finance
 
 <table>
 <tr>
@@ -196,7 +248,7 @@ Automated XAU/USD (Gold) trading system. Algorithmic signals, risk management, a
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SMC](https://img.shields.io/badge/SMC-D4AF37?style=flat-square)
-![Gold](https://img.shields.io/badge/XAU%2FUSD-D4AF37?style=flat-square)
+![XAU/USD](https://img.shields.io/badge/XAU%2FUSD-D4AF37?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -225,7 +277,7 @@ Telegram bot for crypto and forex price alerts — real-time Binance market noti
 
 **[📊 Trading Journal](https://github.com/ImranDev3/tradingjournal)**
 
-React app for tracking trades with live charts, win-rate analytics, and Framer Motion animations. Vite-powered SPA.
+React app for tracking trades with live charts, win-rate analytics, and Framer Motion animations.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -236,16 +288,6 @@ React app for tracking trades with live charts, win-rate analytics, and Framer M
 <tr>
 <td width="50%" valign="top">
 
-**[🛡️ RiskMaster Platinum](https://github.com/ImranDev3/risk-master-analytics)**
-
-Institutional-grade web risk-management suite — multi-target R:R, commission-aware profit, 100-trade equity simulator, cross-asset correlation matrix.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Analytics](https://img.shields.io/badge/Analytics-D4AF37?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
 **[⚙️ WMS Engine](https://github.com/ImranDev3/wms-engine)**
 
 Structured rule-based trading strategy engine — HTF bias, CRT sweeps, MSS, order blocks. Includes CSV backtester.
@@ -254,8 +296,6 @@ Structured rule-based trading strategy engine — HTF bias, CRT sweeps, MSS, ord
 ![ICT](https://img.shields.io/badge/ICT-D4AF37?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[📒 Trading Journal v1](https://github.com/ImranDev3/trading-journal)**
@@ -266,7 +306,9 @@ Pure HTML/CSS/JS trade log for SMC traders. Tracks MSNR, Alchemist and CRT setup
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 **[📡 Market Pulse Analytics](https://github.com/ImranDev3/market-pulse-analytics)**
 
@@ -274,12 +316,13 @@ Real-time market analytics dashboard with live charts, signals, and trade insigh
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Realtime](https://img.shields.io/badge/Realtime-06b6d4?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-### Web Apps &amp; SaaS
+### 🛒 Web Apps &amp; SaaS
 
 <table>
 <tr>
@@ -315,7 +358,6 @@ Fast, no-nonsense email bulk manager — paste, upload, copy one-by-one, track p
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![XLSX](https://img.shields.io/badge/XLSX-217346?style=flat-square&logo=microsoftexcel)
-![No-Backend](https://img.shields.io/badge/No--Backend-D4AF37?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -353,32 +395,9 @@ Financial strategy analyst and funded trader portfolio. Showcases XAU/USD SMC st
 </tr>
 </table>
 
-### Browser &amp; Automation
+### ⚙️ Browser &amp; Automation
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[⚡ Open Download Manager](https://github.com/ImranDev3/open-download-manager)**
-
-Blazing-fast multi-platform download manager. Electron + React + C++ native core. Dynamic file segmentation, pause/resume, dark UI.
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Desktop](https://img.shields.io/badge/Desktop_App-D4AF37?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**[🧩 Hyper Captcha Solver](https://github.com/ImranDev3/hyper-captcha-solver)**
-
-Self-contained MV3 Chrome extension that auto-solves Text, reCAPTCHA v2 Audio, and hCaptcha challenges with in-browser OCR.
-
-![Chrome](https://img.shields.io/badge/MV3-4285F4?style=flat-square&logo=googlechrome)
-![OCR](https://img.shields.io/badge/Tesseract-5C3EE8?style=flat-square)
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -411,7 +430,6 @@ Modern vape e-commerce landing page with 18+ age verification, Poppins typograph
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![E-commerce](https://img.shields.io/badge/E--commerce-D4AF37?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
