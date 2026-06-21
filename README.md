@@ -1,348 +1,462 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  ██╗███╗   ███╗██████╗  █████╗ ███╗   ██╗                          │
-│  ██║████╗ ████║██╔══██╗██╔══██╗████╗  ██║                          │
-│  ██║██╔████╔██║██████╔╝███████║██╔██╗ ██║                          │
-│  ██║██║╚██╔╝██║██╔══██╗██╔══██║██║╚██╗██║                          │
-│  ██║██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚████║                          │
-│  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                          │
-│                                                                      │
-│      FULL_STACK_DEV  //  AI_ENGINEER  //  XAU/USD_TRADER             │
-│      ─────────────────────────────────────────────────              │
-│      > base    : dhaka, bangladesh                                   │
-│      > status  : ONLINE   |  uptime: 24/7   |  mode: PRODUCTION      │
-│      > motto   : "Precise code. Precise entries. No noise."          │
-└──────────────────────────────────────────────────────────────────────┘
-```
+# Imran Hossain
 
-</div>
+### Full Stack Developer &middot; AI Engineer &middot; Forex &amp; Crypto Trader
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2400&pause=900&color=00ff41&center=true&vCenter=true&width=620&lines=root%40imran%3A~%24+./init_profile.sh;Loading+user.imran...+OK;Full+Stack+Dev+%2F%2F+AI+Engineer+%F0%9F%A4%96;XAU%2FUSD+Funded+Trader+%F0%9F%AA%99;ICT+%7C+SMC+%7C+CRT+%7C+MSNR+%7C+Alchemist;React+%7C+Node.js+%7C+Python+%7C+AI%2FML;Building+from+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+AI+Tools+%7C+SaaS+Platforms;Trading+Systems+%7C+Chrome+Extensions;Open+Source+%7C+Production+Apps;From+Dhaka%2C+Bangladesh" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-
-```
-[ STATUS BAR ]
-[OK] github     : @ImranDev3      [online]
-[OK] portfolio  : imran-fx.netlify.app
-[OK] location   : dhaka, bd
-[OK] load_avg   : 0.42 0.38 0.31
-```
+<a href="https://github.com/ImranDev3">
+  <img src="https://komarev.com/ghpvc/?username=ImranDev3&style=for-the-badge&color=06b6d4&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+<a href="https://github.com/ImranDev3?tab=followers">
+  <img src="https://img.shields.io/github/followers/ImranDev3?style=for-the-badge&color=06b6d4&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/>
+</a>
+<a href="https://github.com/ImranDev3?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ImranDev3?style=for-the-badge&color=d4af37&labelColor=0d1117&logo=github&label=TOTAL+STARS" alt="Total Stars"/>
+</a>
 
 </div>
 
 ---
 
-## `$ whoami`
+## About
 
 ```yaml
-# ─────────────────────────────────────────────────────────
-  handle    : imran_hossain
-  github    : @ImranDev3
-  base      : dhaka, bangladesh  🇧🇩
-  role      : [full_stack_dev, ai_engineer, funded_trader]
-  focus     : [ai_saas, trading_systems, chrome_extensions, open_source]
-  market    : [XAU/USD, BTC/USDT, Polymarket]
-  strategy  : [ICT, SMC, CRT, MSNR, Alchemist]
-  prop      : [Maven Trading, DirectFundedTrader]
-  portfolio : https://imran-fx.netlify.app
-  status    : building + shipping + trading
-  uptime    : since 2022-03-16
-# ─────────────────────────────────────────────────────────
+name      : Imran Hossain
+handle    : @ImranDev3
+location  : Dhaka, Bangladesh 🇧🇩
+role      :
+  - Full Stack Developer
+  - AI Engineer
+  - Funded Forex & Crypto Trader
+focus     :
+  - AI SaaS Platforms
+  - Trading Systems & Bots
+  - Chrome Extensions
+  - Open Source Tools
+markets   : [XAU/USD, BTC/USDT, EUR/USD, Polymarket]
+strategies: [ICT, SMC, CRT, MSNR, Alchemist]
+prop_firm : [Maven Trading, DirectFundedTrader]
+portfolio : https://imran-fx.netlify.app
+motto     : Precise code. Precise entries. No noise.
 ```
 
-```js
-// $ cat /home/imran/.config/identity.js
-const imranHossain = {
-  stack  : ["React", "Node.js", "Python", "TypeScript", "MongoDB", "Pine Script"],
-  build  : ["AI Tools", "SaaS Platforms", "Trading Systems", "Chrome Extensions", "Browser Apps"],
-  trade  : ["XAU/USD", "BTC/USDT", "Polymarket"],
-  tools  : ["TradingView", "Ollama", "Whisper", "Chart.js", "Framer Motion"],
-  motto  : "Precise code. Precise entries. No noise."
-};
-
-// $ echo $IMRAN_MOTTO
-// > "Precise code. Precise entries. No noise."
-```
+I'm a self-taught developer building production-grade tools that solve real problems — from AI-powered SaaS platforms to algorithmic trading systems. Currently trading XAU/USD with ICT/SMC methodology and funding accounts with Maven Trading and DirectFundedTrader.
 
 ---
 
-## `$ ./stats.sh --live`
+## Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & ML**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Trading & Markets**
+
+![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+![MetaTrader](https://img.shields.io/badge/MetaTrader-0072BB?style=for-the-badge&logoColor=white)
+![Bybit](https://img.shields.io/badge/Bybit-F7A600?style=for-the-badge&logo=bybit&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ffb000&currStreakLabel=00ff41&sideLabels=00ff41&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranDev3&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=06b6d4&fire=d4af37&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## `$ ls ./stack --category=all`
+## Featured Projects
 
-```
-$ ls -la /home/imran/.stack/
-drwxr-xr-x  imran  staff
-├── lang/           # core languages
-│   ├─ javascript  [███████████░]  92%
-│   ├─ typescript  [██████████░░]  85%
-│   ├─ python      [███████████░]  90%
-│   ├─ html5       [████████████]  98%
-│   └─ css3        [███████████░]  88%
-│
-├── frontend/       # UI / SPA frameworks
-│   ├─ react       [███████████░]  90%
-│   ├─ vite        [██████████░░]  85%
-│   ├─ tailwind    [██████████░░]  82%
-│   └─ framer      [████████░░░░]  78%
-│
-├── backend/        # server / db
-│   ├─ nodejs      [███████████░]  88%
-│   ├─ express     [██████████░░]  80%
-│   ├─ mongodb     [█████████░░░]  76%
-│   └─ fastapi     [████████░░░░]  72%
-│
-├── ai/             # ML / LLM tools
-│   ├─ ollama      [████████░░░░]  75%
-│   ├─ whisper     [███████░░░░░]  65%
-│   ├─ gemini      [████████░░░░]  72%
-│   └─ langchain   [██████░░░░░░]  55%
-│
-└── trade/          # trading stack
-    ├─ pine_script [████████░░░░]  78%
-    ├─ tradingview [██████████░░]  85%
-    ├─ metatrader  [█████████░░░]  80%
-    └─ chartjs     [████████░░░░]  75%
-```
+### AI &amp; Machine Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🧠 ZeroCostAI](https://github.com/ImranDev3/ZeroCostAI-)**
+
+Free AI coding assistant CLI — 9 providers (OpenAI, Claude, Gemini, Groq, Mistral, Cohere, Together, OpenRouter, Ollama) from a single manifest. No backend. Zero cost.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-D4AF37?style=flat-square)
+![Free](https://img.shields.io/badge/Zero--Cost-555?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[✨ Zenova AI Studio](https://github.com/ImranDev3/ai-content-factory)**
+
+Free-tier AI content and poster generator — Facebook posts, blogs, YouTube scripts plus text-to-image. Groq + HuggingFace powered.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS-D4AF37?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🌿 Verdanta AI Hub](https://github.com/ImranDev3/verdanta-ai-hub)**
+
+AI membership SaaS with React web app, admin dashboard, and Manifest V3 Chrome extension. BYOK (bring your own AI keys).
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MV3](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome)
+![BYOK](https://img.shields.io/badge/BYOK-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[🧠 AgentMemory Skill](https://github.com/ImranDev3/agentmemory-opencode-skill)**
+
+OpenCode Skill — persistent memory layer for AI coding agents. Remembers your code, tech stack and preferences across sessions.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-D4AF37?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🔐 2FA Authenticator](https://github.com/ImranDev3/2fa-Authenticator-)**
+
+Client-side TOTP authenticator with MetaMask, Bitcoin, WebAuthn, Google and Password-encrypted backup. Argon2id + AES-256-GCM. PWA, offline-first.
+
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa)
+![Security](https://img.shields.io/badge/Security-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[🤖 AutoReply Pro](https://github.com/ImranDev3/fb-auto-reply)**
+
+AI-powered auto-reply bot for Facebook Messenger and WhatsApp. Multi-tenant SaaS with admin panel, subscriptions, and Gemini AI smart replies.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS-D4AF37?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+### Trading &amp; Finance
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🥇 Gild AI Terminal](https://github.com/ImranDev3/Gild-AI-Terminal)**
+
+Automated XAU/USD (Gold) trading system. Algorithmic signals, risk management, and AI-driven execution.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SMC](https://img.shields.io/badge/SMC-D4AF37?style=flat-square)
+![Gold](https://img.shields.io/badge/XAU%2FUSD-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[📈 Bybit Trading Bot](https://github.com/ImranDev3/bybit-trading-bot)**
+
+Professional crypto trading bot for Bybit — multiple strategies, risk management, and real-time alerts.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bybit](https://img.shields.io/badge/Bybit-F7A600?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🔔 Trade Alert Bot](https://github.com/ImranDev3/trade-alert-bot)**
+
+Telegram bot for crypto and forex price alerts — real-time Binance market notifications, customizable thresholds, multi-channel.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram)
+
+</td>
+<td width="50%" valign="top">
+
+**[📊 Trading Journal](https://github.com/ImranDev3/tradingjournal)**
+
+React app for tracking trades with live charts, win-rate analytics, and Framer Motion animations. Vite-powered SPA.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🛡️ RiskMaster Platinum](https://github.com/ImranDev3/risk-master-analytics)**
+
+Institutional-grade web risk-management suite — multi-target R:R, commission-aware profit, 100-trade equity simulator, cross-asset correlation matrix.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Analytics](https://img.shields.io/badge/Analytics-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[⚙️ WMS Engine](https://github.com/ImranDev3/wms-engine)**
+
+Structured rule-based trading strategy engine — HTF bias, CRT sweeps, MSS, order blocks. Includes CSV backtester.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ICT](https://img.shields.io/badge/ICT-D4AF37?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📒 Trading Journal v1](https://github.com/ImranDev3/trading-journal)**
+
+Pure HTML/CSS/JS trade log for SMC traders. Tracks MSNR, Alchemist and CRT setups with live win-rate, R:R, and localStorage persistence.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+**[📡 Market Pulse Analytics](https://github.com/ImranDev3/market-pulse-analytics)**
+
+Real-time market analytics dashboard with live charts, signals, and trade insights. React + Vite.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### Web Apps &amp; SaaS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🛒 Digital SubDesk](https://github.com/ImranDev3/digiprime)**
+
+Professional digital product store with admin panel, WhatsApp order flow, dynamic categories, and a sleek dark UI.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8B5CF6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[🌈 AuraStream AI](https://github.com/ImranDev3/AuraStream)**
+
+Open-source music streaming engine with YouTube backend, background playback, zero ads, neon-glassmorphism UI.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📬 Blunk Email Manager](https://github.com/ImranDev3/Blunk-Email-Manager)**
+
+Fast, no-nonsense email bulk manager — paste, upload, copy one-by-one, track progress. Single HTML file, zero dependencies.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![XLSX](https://img.shields.io/badge/XLSX-217346?style=flat-square&logo=microsoftexcel)
+![No-Backend](https://img.shields.io/badge/No--Backend-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[🏆 Temp Mail](https://github.com/ImranDev3/tempmail)**
+
+World's most relaxing temp mail — zero popups, dark mode, OTP copy, auto-refresh, unlimited and free.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Privacy](https://img.shields.io/badge/Privacy-D4AF37?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[✉️ Dot Email Pro](https://github.com/ImranDev3/dotmail-pro)**
+
+Clean dark-themed dot-style email generator. Unlimited .com style emails for testing, dev or temporary use.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Dark-UI](https://img.shields.io/badge/Dark--UI-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[💹 imranFX](https://github.com/ImranDev3/imranfx)**
+
+Financial strategy analyst and funded trader portfolio. Showcases XAU/USD SMC strategies, ICT concepts, and a prop-firm journey.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![XAU/USD](https://img.shields.io/badge/XAU%2FUSD-D4AF37?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+### Browser &amp; Automation
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[⚡ Open Download Manager](https://github.com/ImranDev3/open-download-manager)**
+
+Blazing-fast multi-platform download manager. Electron + React + C++ native core. Dynamic file segmentation, pause/resume, dark UI.
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Desktop](https://img.shields.io/badge/Desktop_App-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[🧩 Hyper Captcha Solver](https://github.com/ImranDev3/hyper-captcha-solver)**
+
+Self-contained MV3 Chrome extension that auto-solves Text, reCAPTCHA v2 Audio, and hCaptcha challenges with in-browser OCR.
+
+![Chrome](https://img.shields.io/badge/MV3-4285F4?style=flat-square&logo=googlechrome)
+![OCR](https://img.shields.io/badge/Tesseract-5C3EE8?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🚀 ChromeMultiBot](https://github.com/ImranDev3/ChromeMultiBot)**
+
+One-click multi-profile Chrome manager. Launch and control multiple Google Chrome profiles with anti-bot features.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Multi-Profile](https://img.shields.io/badge/Multi--Profile-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[🔍 FB-AutoFinder AI](https://github.com/ImranDev3/FB-AutoFinder-AI)**
+
+OSINT engine for discovering high-traffic Facebook groups with neon-glassmorphism dashboard, real-time analytics, and auto-approval detection.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-D4AF37?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🌬️ VapeChamp](https://github.com/ImranDev3/vapechamp)**
+
+Modern vape e-commerce landing page with 18+ age verification, Poppins typography, and a clean conversion-focused design.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![E-commerce](https://img.shields.io/badge/E--commerce-D4AF37?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[💼 Dev Portfolio](https://github.com/ImranDev3/dev-portfolio-)**
+
+Personal developer portfolio — Frontend Dev, AI Engineer and Funded Trader. Vanilla HTML/CSS/JS with a minified build pipeline.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=flat-square)
+![Private](https://img.shields.io/badge/Private-555?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ ls ./projects --tree`
+## What I'm Working On
 
-```
-/home/imran/projects/
-├── ai/                              [ 6 modules ]
-├── trade/                           [ 8 modules ]
-├── web/                             [ 6 modules ]
-└── auto/                            [ 6 modules ]
-```
-
-### `> cd ai && ls -la`
-
-```
-drwxr-xr-x
-├── [🧠] ZeroCostAI           → Free AI coding CLI, 9 providers
-├── [✨] Zenova AI Studio     → Free-tier AI content & poster gen
-├── [🌿] Verdanta AI Hub      → AI membership SaaS + MV3 extension
-├── [🧠] AgentMemory Skill    → Persistent AI agent memory
-├── [🔐] 2FA Authenticator    → Client-side TOTP, Argon2 + AES
-└── [🤖] AutoReply Pro        → AI auto-reply for FB / WhatsApp
-```
-
-| Module | Stack | Status |
-|--------|-------|:------:|
-| [🧠 ZeroCostAI](https://github.com/ImranDev3/ZeroCostAI-) | TypeScript · CLI · 9 AI providers | `● ACTIVE` |
-| [✨ Zenova AI Studio](https://github.com/ImranDev3/ai-content-factory) | Node.js · Groq · HuggingFace | `● ACTIVE` |
-| [🌿 Verdanta AI Hub](https://github.com/ImranDev3/verdanta-ai-hub) | React · MV3 · MongoDB | `● ACTIVE` |
-| [🧠 AgentMemory Skill](https://github.com/ImranDev3/agentmemory-opencode-skill) | TypeScript · OpenCode | `● ACTIVE` |
-| [🔐 2FA Authenticator](https://github.com/ImranDev3/2fa-Authenticator-) | PWA · Argon2 · AES-256 | `● ACTIVE` |
-| [🤖 AutoReply Pro](https://github.com/ImranDev3/fb-auto-reply) | Node.js · Gemini · MongoDB | `● ACTIVE` |
-
-### `> cd trade && ls -la`
-
-```
-drwxr-xr-x
-├── [🥇] Gild AI Terminal     → XAU/USD automated trading
-├── [📈] Bybit Trading Bot    → Multi-strategy crypto bot
-├── [🔔] Trade Alert Bot      → Telegram price alerts
-├── [📊] Trading Journal      → React trade tracker
-├── [🛡️] RiskMaster Platinum  → Institutional risk mgmt
-├── [⚙️] WMS Engine           → ICT/SMC strategy engine
-├── [📒] Trading Journal v1   → Vanilla JS SMC journal
-└── [📡] Market Pulse         → Real-time market analytics
-```
-
-| Module | Stack | Status |
-|--------|-------|:------:|
-| [🥇 Gild AI Terminal](https://github.com/ImranDev3/Gild-AI-Terminal) | Python · XAU/USD · SMC | `● ACTIVE` |
-| [📈 Bybit Trading Bot](https://github.com/ImranDev3/bybit-trading-bot) | Python · Bybit API | `● ACTIVE` |
-| [🔔 Trade Alert Bot](https://github.com/ImranDev3/trade-alert-bot) | Python · Telegram · Binance | `● ACTIVE` |
-| [📊 Trading Journal](https://github.com/ImranDev3/tradingjournal) | React · Vite · Chart.js | `● ACTIVE` |
-| [🛡️ RiskMaster Platinum](https://github.com/ImranDev3/risk-master-analytics) | JS · Monte Carlo · Analytics | `● ACTIVE` |
-| [⚙️ WMS Engine](https://github.com/ImranDev3/wms-engine) | Python · ICT/SMC · Backtest | `● ACTIVE` |
-| [📒 Trading Journal v1](https://github.com/ImranDev3/trading-journal) | HTML/JS · localStorage | `● ACTIVE` |
-| [📡 Market Pulse](https://github.com/ImranDev3/market-pulse-analytics) | React · Vite · Realtime | `● ACTIVE` |
-
-### `> cd web && ls -la`
-
-```
-drwxr-xr-x
-├── [🛒] Digital SubDesk      → Digital product store + admin
-├── [🌈] AuraStream AI        → YouTube music streaming
-├── [📬] Blunk Email Manager  → Bulk email tool
-├── [🏆] Temp Mail            → World's most relaxing temp mail
-├── [✉️] Dot Email Pro        → Dot-style email generator
-└── [💹] imranFX              → Trader portfolio site
-```
-
-| Module | Stack | Status |
-|--------|-------|:------:|
-| [🛒 Digital SubDesk](https://github.com/ImranDev3/digiprime) | Node.js · MongoDB · EJS | `● ACTIVE` |
-| [🌈 AuraStream AI](https://github.com/ImranDev3/AuraStream) | React · Firebase · Framer | `● ACTIVE` |
-| [📬 Blunk Email Manager](https://github.com/ImranDev3/Blunk-Email-Manager) | HTML · XLSX · No-Backend | `● ACTIVE` |
-| [🏆 Temp Mail](https://github.com/ImranDev3/tempmail) | JS · Dark UI · OTP | `● ACTIVE` |
-| [✉️ Dot Email Pro](https://github.com/ImranDev3/dotmail-pro) | HTML · Dark Theme | `● ACTIVE` |
-| [💹 imranFX](https://github.com/ImranDev3/imranfx) | HTML · Custom CSS · Live | `● ACTIVE` |
-
-### `> cd auto && ls -la`
-
-```
-drwxr-xr-x
-├── [⚡] Open Download Mgr    → Multi-platform DM, C++ core
-├── [🧩] Hyper Captcha        → MV3 captcha auto-solver
-├── [🚀] ChromeMultiBot       → Multi-profile Chrome manager
-├── [🔍] FB-AutoFinder AI     → Facebook group OSINT
-├── [🌬️] VapeChamp            → Vape e-commerce landing
-└── [💼] Dev Portfolio        → Personal portfolio
-```
-
-| Module | Stack | Status |
-|--------|-------|:------:|
-| [⚡ Open Download Manager](https://github.com/ImranDev3/open-download-manager) | Electron · React · C++ | `● ACTIVE` |
-| [🧩 Hyper Captcha Solver](https://github.com/ImranDev3/hyper-captcha-solver) | MV3 · Tesseract · OCR | `● ACTIVE` |
-| [🚀 ChromeMultiBot](https://github.com/ImranDev3/ChromeMultiBot) | Python · Multi-Profile | `● ACTIVE` |
-| [🔍 FB-AutoFinder AI](https://github.com/ImranDev3/FB-AutoFinder-AI) | React · Vite · OSINT | `● ACTIVE` |
-| [🌬️ VapeChamp](https://github.com/ImranDev3/vapechamp) | HTML · CSS · German | `● ACTIVE` |
-| [💼 Dev Portfolio](https://github.com/ImranDev3/dev-portfolio-) | HTML · Custom CSS | `● PRIVATE` |
+- 🔭 Building AI-powered SaaS tools and trading bots in production
+- 🌱 Deepening my expertise in LLMs, agent systems, and algorithmic trading
+- 💬 Open to collaborations on AI tools, trading systems, and Chrome extensions
+- ⚡ Fun fact: I write Pine Script by day and debug Python by night
 
 ---
 
-## `$ cat /etc/trading.conf`
-
-```ini
-# ─────────────────────────────────────────────────────────
-#  /etc/trading.conf
-#  maintained by: imran_hossain
-#  last update  : 2026-06-21
-# ─────────────────────────────────────────────────────────
-
-[profile]
-  handle    = imran_hossain
-  role      = funded_trader
-  market    = XAU/USD, BTC/USDT, Polymarket
-  strategy  = ICT, SMC, CRT, MSNR, Alchemist
-  session   = London, New_York
-  prop_firm = Maven Trading, DirectFundedTrader
-
-[status]
-  funded    = TRUE
-  phase     = PHASE_2
-  uptime    = since_2024
-  drawdown  = < 4%
-  mindset   = DISCIPLINED
-
-[method]
-  entry     = liquidity_sweep + MSS + OB
-  confirm   = FVG + displacement
-  invalid   = CHOCH against bias
-  risk      = 1% per trade
-  rr_target = 1:3 minimum
-
-# ─────────────────────────────────────────────────────────
-```
-
-```
-[████████████]  FUNDED   |  XAU/USD  |  ICT/SMC  |  PHASE_2
-[░░░░░░░░░░░░]  RISK     |  1.0%     |  RR: 1:3  |  DRAWDOWN: 3.8%
-```
-
----
-
-## `$ ./connect.sh`
-
-```bash
-#!/bin/bash
-# ── Connect with imran_hossain ────────────────────────────
-# usage: ./connect.sh [github|portfolio|email]
-
-case "$1" in
-  github)
-    open "https://github.com/ImranDev3"
-    ;;
-  portfolio)
-    open "https://imran-fx.netlify.app"
-    ;;
-  linkedin)
-    echo "// add your linkedin url here"
-    ;;
-  *)
-    echo "[OK] channels available:"
-    echo "     [1] github      → github.com/ImranDev3"
-    echo "     [2] portfolio   → imran-fx.netlify.app"
-    echo "     [3] email       → github @imrandev3"
-    ;;
-esac
-```
+## Connect
 
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────────┐
-│  [1] github    →  github.com/ImranDev3                     │
-│  [2] portfolio →  imran-fx.netlify.app                     │
-│  [3] projects  →  github.com/ImranDev3?tab=repositories    │
-└────────────────────────────────────────────────────────────┘
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-ImranDev3-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117&color=0d1117)](https://github.com/ImranDev3)
+[![GitHub](https://img.shields.io/badge/GitHub-ImranDev3-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ImranDev3)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-imran--fx.netlify.app-00ff41?style=for-the-badge&labelColor=0d1117&color=0d1117)](https://imran-fx.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-imran--fx.netlify.app-06b6d4?style=for-the-badge&labelColor=0d1117)](https://imran-fx.netlify.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-imrandev3@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117&color=0d1117)](mailto:imrandev3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-imrandev3@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:imrandev3@gmail.com)
 
 </div>
 
 ---
 
-## `$ tail -f /var/log/imran.log`
-
-```
-[2026-06-21 02:49:30] boot: profile loaded (commit 39d1821)
-[2026-06-21 02:49:30] init: stack initialized (28 modules)
-[2026-06-21 02:49:30] mount: /home/imran/projects mounted
-[2026-06-21 02:49:30] service: github-api ......... [OK]
-[2026-06-21 02:49:30] service: telegram-bot ....... [OK]
-[2026-06-21 02:49:30] service: trading-engine ..... [OK]
-[2026-06-21 02:49:30] info:   28 repos synced
-[2026-06-21 02:49:30] info:   all topics normalized
-[2026-06-21 02:49:30] info:   descriptions polished
-[2026-06-21 02:49:30] ready:  awaiting incoming connections
-```
-
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   // "Precise code. Precise entries. No noise."            │
-│   //                            — imran_hossain            │
-│                                                            │
-│   uptime: 24/7    |    load: 0.42    |    status: OK       │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0d1117&height=120&section=footer" width="100%"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ImranDev3&color=00ff41&style=flat-square&label=VISITORS)
+<sub>⭐ From [ImranDev3](https://github.com/ImranDev3) with passion</sub>
 
 </div>
