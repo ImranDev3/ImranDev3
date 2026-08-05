@@ -197,9 +197,9 @@ Institutional-grade risk suite — multi-target R:R, equity simulator, correlati
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="172em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117" onerror="this.onerror=null;this.src='https://github-readme-stats.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&hide_border=true&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117'"/>
+  <img height="172em" src="https://github-readme-stats-fast.vercel.app/api?username=ImranDev3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117"/>
   &nbsp;&nbsp;
-  <img height="172em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&text_color=c9d1d9&bg_color=0d1117" onerror="this.onerror=null;this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&text_color=c9d1d9&bg_color=0d1117'"/>
+  <img height="172em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ImranDev3&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <div align="center">
